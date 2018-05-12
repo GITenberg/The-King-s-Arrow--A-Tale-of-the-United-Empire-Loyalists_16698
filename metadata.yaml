@@ -1,0 +1,27 @@
+_repo: The-King-s-Arrow--A-Tale-of-the-United-Empire-Loyalists_16698
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cody, H. A. (Hiram Alfred)
+    alias: Cody, Hiram Alfred
+    birthdate: 1872
+    deathdate: 1948
+    gutenberg_agent_id: '2694'
+    url: http://www.gutenberg.org/2009/agents/2694
+description: ''
+gutenberg_issued: '2005-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16698'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United Empire loyalists -- Fiction'
+- !lcc 'PS'
+title: 'The King''s Arrow: A Tale of the United Empire Loyalists'
+url: http://www.gutenberg.org/ebooks/16698
