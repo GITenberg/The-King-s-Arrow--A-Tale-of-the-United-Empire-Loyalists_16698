@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '2694'
     url: http://www.gutenberg.org/2009/agents/2694
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16698#The-King-s-Arrow--A-Tale-of-the-United-Empire-Loyalists
 gutenberg_issued: '2005-09-15'
 gutenberg_type: Text
 identifiers:
